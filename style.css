@@ -15,6 +15,11 @@
 	color: white;
 }
 
-.metricLabel {
-	padding: 0px 20px;
+.metricContainer {
+	padding: 0px 10px;
+}
+
+.icon {
+	font-size: 44px;
+	padding: 0px 10px;
 }
